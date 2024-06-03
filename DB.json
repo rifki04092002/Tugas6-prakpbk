@@ -1,0 +1,19 @@
+{
+  "articles": [
+    {
+      "title": "Rifki",
+      "content": "Ranger",
+      "id": "01"
+    },
+    {
+      "id": "02",
+      "title": "Dwi Yudha",
+      "content": "Penanggung jawab"
+    },
+    {
+      "id": "03",
+      "title": "Zakia",
+      "content": "Ketupel"
+    }
+  ]
+}
